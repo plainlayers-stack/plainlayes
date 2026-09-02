@@ -1,0 +1,8 @@
+{
+  "name": "Plain Layers",
+  "description": "Industrial-grade 3D printing services, instant CAD file quoter, curated 3D printed products shop, and B2B additive manufacturing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
